@@ -1,0 +1,7 @@
+//INSERT INTO `chatter_categories`(`id`, `parent_id`, `order`, `name`, `color`, `slug`, `created_at`, `updated_at`) VALUES ([value-1],[value-2],[value-3],[value-4],[value-5],[value-6],[value-7],[value-8])
+    /**
+    Introductions, general, feedback, random, rules, basics, contribution, about, delete, 
+    remove contributions, about and delete
+    */
+    //wanted: form 1-4 supertopics{ general, syllabus, notes, exams, guides }, general, random, rules 
+    /**
